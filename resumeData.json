@@ -1,0 +1,143 @@
+{
+  "main": {
+    "headline":"Developer ∙ Technical Architect ∙ Database Admin",
+    "name":"Christina L Bayley",
+    "description":"\"Embracing technology enhances your business.\"",
+    "image":"profile-pic.png",
+    "bio":"Hello World! Welcome to my portfolio!",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "christinabayley@comcast.net",
+    "phone": "609.504.5382",
+    "github":"https://github.com/cbayley-edu",
+    "project":"https://saassysaper.blogspot.com/",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Woodbury",
+      "state":"NJ",
+      "zip": "08096"
+    },
+    "website": "https://github.com/cbayley-edu",
+    "resumedownload":"./resume.pdf",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/cbayley-edu",
+        "target": "_blank",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/christinabayley/",
+        "target": "_blank",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"blog",
+        "url":"https://saassysaper.blogspot.com/",
+        "target": "_blank",
+        "className":"fa fa-book"
+      },
+      {
+        "name":"myemployer",
+        "url":"https://www.stellaroneconsulting.com/stellar-one-consulting-the-stellar-one-team",
+        "target": "_blank",
+        "className":"fa fa-building-o"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/cbayley_mscrm",
+        "target": "_blank",
+        "className":"fa fa-twitter"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"degree",
+        "graduated":"date",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"work",
+        "title":"title",
+        "years":"date",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"skill",
+        "level":"60%"
+      },
+      {
+        "name":"skill",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Hey Ma! Where's the Meatloaf?",
+        "category":"Group project 1. A recipe search engine using Edamam's API.",
+        "image":"photo-1.png",
+        "url":"https://cbayley-edu.github.io/ma-the-meatloaf/",
+        "repourl":"https://github.com/cbayley-edu/ma-the-meatloaf"
+      },
+      {
+        "title":"Weather Dashboard",
+        "category":"Get the weather forecast for saved or new locations.",
+        "image":"photo-2.png",
+        "url":"https://cbayley-edu.github.io/weather-dashboard/",
+        "repourl":"https://github.com/cbayley-edu/weather-dashboard"
+      },
+      {
+        "title":"Test Your Knowledge!",
+        "category":"Built using native JavaScript. Choose between a Cocktails Quiz or Austin Powers Quiz!",
+        "image":"photo-3.png",
+        "url":"https://cbayley-edu.github.io/test-your-knowledge/",
+        "repourl":"https://github.com/cbayley-edu/test-your-knowledge"
+      },
+      {
+        "title":"Eat-Da-Burger!",
+        "category":"Built using handlebars. Add, eat, devour, or revive burgers!",
+        "image":"photo-4.png",
+        "url":"https://eat-da-burger-86793.herokuapp.com/",
+        "repourl":"https://github.com/cbayley-edu/eat-da-burger"
+      },
+      {
+        "title":"Voting App",
+        "category":"Group Project 2. Built using Handlebars. Uses current location to pull ballot data from Google's Civic API.",
+        "image":"photo-5.png",
+        "url":"https://gentle-ocean-53258.herokuapp.com/",
+        "repourl":"https://github.com/ydoc118/project-2"
+      },
+      {
+        "title":"Workout Tracker",
+        "category":"Track your resistance and cardio workouts. View your progress for the past 7 days in a dashboard.",
+        "image":"photo-6.png",
+        "url":"https://workout-tracker-92233.herokuapp.com/",
+        "repourl":"https://github.com/cbayley-edu/workout-tracker"
+      },
+      {
+        "title":"Budget Tracker (PWA)",
+        "category":"Work online or offline to track your expenses and balance.",
+        "image":"photo-7.png",
+        "url":"https://budget-tracker-32087.herokuapp.com/",
+        "repourl":"https://github.com/cbayley-edu/budget-tracker"
+      },
+      {
+        "title":"React Employee Directory",
+        "category":"Built using React. POC directory that allows you to search and sort.",
+        "image":"photo-8.png",
+        "url":"https://cbayley-edu.github.io/employee-directory-react/",
+        "repourl":"https://github.com/cbayley-edu/employee-directory-react"
+      }
+    ]
+  }
+}
