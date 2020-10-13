@@ -1,29 +1,57 @@
-# React Nice Resume     
+# React Portfolio
+### Unit 20 Homework: Update Professional Materials
 
-### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+## Description
+For this assignment I rebuilt my Portfolio using React. We were allowed to use existing templates if we found one that we liked - and I did! I made some modifications which I couldn't have done if I didn't have a solid understanding of React. If you know me, then you know that the theme I chose really matches my personality! :)
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
+On my Porfolio you can...  
+  * Read my bio, view some applications I've written, and see the "code" behind the websites through my GitHub repo. 
+  * Access my social media links (LinkedIn and Twitter), read my SaaSsySAP'er blog, and check out my awesome employer's page.
+  * Download my resume, email me, and call me.
 
-# About [`particles-bg`](https://github.com/lindelof/particles-bg) library
-#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
+Access my portfolio here: https://cbayley-edu.github.io/portfolio-react/
+
+Access the repo here: https://github.com/cbayley-edu/employee-directory-react
+
+## Table of Contents
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [Questions](#questions)
+
+## Usage
+#### There are convenient links across the top to allow you to quickly access the items mentioned above, or you can simply scroll down.
+   ![navigation](/public/images/nav-bar.png)
+
+#### The work link will take you to My Portfolio where you can hover over any image to see a brief description. Use the Go to Website or View Repo to vist the application or see the code!
+   ![my portfolio](/public/images/my-portfolio.png)
+
+#### Clicking Contact will allow you to contact me through email or phone. From here you can also access various links as shown below.
+   ![contact me and links](/public/images/contact-me-and-links.png)
+
+
+## Credits
+This project was initially forked from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template). Authored by: https://github.com/tbakerx.
+I made some modifications and adjustments to the code.
+
+See the original code demo here: https://nordicgiant2.github.io/react-nice-resume-page/index.html
+
+This project also uses the `particles-bg` library. https://github.com/lindelof/particles-bg  Really neat stuff!!!
 
 ![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
 
-## Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
+## License 
 
-## Run Project
-### 1. Clone the project
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### 2. Run the project
-```shell
-npm i
-npm start
-```
+This project is covered by the above license(s). Click on the badge for more information.
 
-### 3. BUild
-```shell
-npm run build
-```
+
+## Questions 
+
+GitHub username: cbayley-edu
+GitHub profile link: https://github.com/cbayley-edu
+
+Please email me at christinabayley@comcast.net with any questions you have or any issues you come across.
+
