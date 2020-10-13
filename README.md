@@ -23,7 +23,7 @@ Access the repo here: https://github.com/cbayley-edu/employee-directory-react
 #### There are convenient links across the top to allow you to quickly access the items mentioned above, or you can simply scroll down.
    ![navigation](/public/images/nav-bar.png)
 
-#### The work link will take you to My Portfolio where you can hover over any image to see a brief description. Use the Go to Website or View Repo to vist the application or see the code!
+#### The work link will take you to My Portfolio where you can hover over any image to see a brief description. Use the Go to Website or View Repo to visit the application or see the code!
    ![my portfolio](/public/images/my-portfolio.png)
 
 #### Clicking Contact will allow you to contact me through email or phone. From here you can also access various links as shown below.
@@ -36,7 +36,7 @@ I made some modifications and adjustments to the code.
 
 See the original code demo here: https://nordicgiant2.github.io/react-nice-resume-page/index.html
 
-This project also uses the `particles-bg` library. https://github.com/lindelof/particles-bg  Really neat stuff!!!
+This project also uses the particles-bg library: https://github.com/lindelof/particles-bg.  Really neat stuff!!!
 
 ![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
 
